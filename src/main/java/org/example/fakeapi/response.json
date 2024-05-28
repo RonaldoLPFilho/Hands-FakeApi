@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "id": 238739,
+      "check_number": "1",
+      "reference": "Pelé >> Maradona",
+      "downloadUrl": "https://imgur.com/gallery/messi-face-swap-IbGb0qq",
+      "creation_date": "2022-09-28T20:27:45.000Z",
+      "Flinston": "Biri",
+      "currency": "ARS",
+      "amount": 22487008.88
+    },
+    {
+      "id": 238458,
+      "check_number": "2",
+      "reference": "Isabel",
+      "downloadUrl": "https://imgur.com/a/UprU8Tp",
+      "creation_date": "2022-09-28T19:10:45.000Z",
+      "Flinston": "Biri",
+      "currency": "BRL",
+      "amount": 1630.28
+    },
+    {
+      "id": 238462,
+      "check_number": "3",
+      "reference": "Playstation >> Xbox",
+      "downloadUrl": "https://imgur.com/gallery/messi-face-swap-IbGb0qq",
+      "creation_date": "2022-09-28T19:10:45.000Z",
+      "Flinston": "Biri",
+      "currency": "BRL",
+      "amount": 333.39
+    }
+  ],
+  "total_pages": 1,
+  "total_elements": 3,
+  "last": true
+}
